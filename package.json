@@ -7,5 +7,8 @@
     "test": "protractor conf.js"
   },
   "author": "yos_nee",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^4.0.4"
+  }
 }
