@@ -1,0 +1,11 @@
+{
+  "name": "todo-spec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "yos_nee",
+  "license": "ISC"
+}
